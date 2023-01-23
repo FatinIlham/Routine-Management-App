@@ -1,16 +1,9 @@
-# Scheduler
-Scheduler is a class schedule android-based application for varendra university. Class schedule application is the key to a well-managed, organized classroom. Class schedule permit students
+# University Routine Manage App
+Scheduler is an android-based class schedule application for Varendra University. The application of class schedules is the key to a well-managed, organized classroom. Students' class schedules allow them to quickly complete daily responsibilities that are required of both the teacher and the students. There is also a class cancellation option for teachers here. There is also the option to add an extra class and search for an empty classroom. Finally, our project has the potential to serve as a model for the entire department.
 
-to rapidly achieve everyday responsibilities that are obligatory of together the teacher and students. Here
-also have a class cancel option for teacher. Also have option for add extra class option,
-search empty class room. Finally, our project may be used as a model for the entire department. 
-In that project we are developing an android-based application to provide up-to-date daily class time,
-identify overlap class, add extra class option, search empty class room information to the user’s needs and
-user will collect information.
+In that project, we are creating an android-based application that will provide up-to-date daily class times, identify overlap classes, add extra class options, search for empty class rooms, and collect information.
 
-For example, A user must need’s an account to login in this app, but he/she doesn’t have any account than
-he/she needs to sign up. Then the home page will be shown. In home page there will be multiple types of
-category. He/she can also select the category and can also collect these information.
+
 
 # Features
 
@@ -51,10 +44,3 @@ Framework:
 Database: 
       
       Firebase
-
-
-# Virtual Tech Carnival 2020 Project Showcasing || Software Category
-   Organized By Dept. of CSE, Vaarendra University
-   
-project video: https://web.facebook.com/102233254889511/videos/2787041021553860
-
